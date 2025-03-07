@@ -11,4 +11,5 @@ This project evaluates the performance of Sentinel-2 and Landsat imagery in mapp
 
 **Contact**
 Farida Mituro
+
 University of British Columbia
